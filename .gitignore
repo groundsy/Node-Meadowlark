@@ -3,3 +3,5 @@ node_modules
 
 # Any other files to ignore
 lib/credentials.js
+log
+NaN
